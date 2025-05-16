@@ -16,7 +16,7 @@ limitations under the License.
 
 # Finetuning LLaMA on commonsense reasoning tasks using MoRAOM
 
-This directory includes the MoRAOM implementation and guidelines for reproducing the results in our paper.
+This directory includes the MoRAOM implementation and guidelines for reproducing the results.
 
 ## Setup
 1. Install dependencies
